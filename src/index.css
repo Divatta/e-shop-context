@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card.card-img-top{
+  object-fit: cover;
+  object-position: center;
+}
+.pointer{
+  cursor: pointer !important;
+}
